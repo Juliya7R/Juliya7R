@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 About Me
+I am a Manual QA Engineer focused on quality and user experience. I chose testing because I enjoy finding bugs, understanding how applications work, and helping improve products.
 
-<!--
-**Juliya7R/Juliya7R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience testing web and mobile applications, including functional, regression, and exploratory testing. I have worked with test documentation, analyzed requirements, and collaborated with development teams. I am detail-oriented, a fast learner, and eager to grow in QA.
 
-Here are some ideas to get you started:
+## 🛠 Skills & Tools
+- Testing: functional, regression, exploratory, usability  
+- Documentation: test cases, checklists, bug reports  
+- Tools: Postman, DevTools, Android Studio, Charles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacts
+- GitHub: https://github.com/Juliya7R  
+- Telegram: https://t.me/yulyateka  
+
+## 💼 Status
+Open to Junior/Manual QA Engineer opportunities.
